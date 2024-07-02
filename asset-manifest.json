@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/stopwatch-in-reactjs/static/css/main.f3fb50c6.css",
-    "main.js": "/stopwatch-in-reactjs/static/js/main.dd04cb62.js",
-    "static/js/453.bead9516.chunk.js": "/stopwatch-in-reactjs/static/js/453.bead9516.chunk.js",
-    "index.html": "/stopwatch-in-reactjs/index.html",
-    "main.f3fb50c6.css.map": "/stopwatch-in-reactjs/static/css/main.f3fb50c6.css.map",
-    "main.dd04cb62.js.map": "/stopwatch-in-reactjs/static/js/main.dd04cb62.js.map",
-    "453.bead9516.chunk.js.map": "/stopwatch-in-reactjs/static/js/453.bead9516.chunk.js.map"
+    "main.css": "/Stopwatch-in-ReactJS/static/css/main.f3fb50c6.css",
+    "main.js": "/Stopwatch-in-ReactJS/static/js/main.9a7804fe.js",
+    "static/js/453.bead9516.chunk.js": "/Stopwatch-in-ReactJS/static/js/453.bead9516.chunk.js",
+    "index.html": "/Stopwatch-in-ReactJS/index.html",
+    "main.f3fb50c6.css.map": "/Stopwatch-in-ReactJS/static/css/main.f3fb50c6.css.map",
+    "main.9a7804fe.js.map": "/Stopwatch-in-ReactJS/static/js/main.9a7804fe.js.map",
+    "453.bead9516.chunk.js.map": "/Stopwatch-in-ReactJS/static/js/453.bead9516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3fb50c6.css",
-    "static/js/main.dd04cb62.js"
+    "static/js/main.9a7804fe.js"
   ]
 }
